@@ -1,13 +1,13 @@
 DICTIONARY:
-Raesfeld
-Flughafen
-Berlin
-Bratwurst
-Hauptstrasse
-Brot
-Gauss
-Klimaanlage
-RammsteinMusik
+Raesfeld: Raesfeld is a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany.
+Flughafen: Airport.
+Berlin: Germany's capital.
+Bratwurst: A type of fine German pork sausage that is typically fried or grilled.
+Hauptstrasse: Main road.
+Brot: Bread.
+Gauss: A unit of magnetic induction, equal to one ten-thousandth of a tesla.
+Klimaanlage: Air-conditioner.
+RammsteinMusik: 
 Porsche
 BMW
 Biergarten
